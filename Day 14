@@ -1,0 +1,30 @@
+package com.company;
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        double num1,num2,sum,difference,product,quotient;
+        Scanner sc=new Scanner(System.in);
+
+        System.out.println("Enter First Number : ");
+        num1=sc.nextDouble();
+
+        System.out.println("Enter Second Number :  ");
+        num2=sc.nextDouble();
+
+        sum =num1+num2;
+        System.out.println("The sum of these numbers is :" +sum);
+
+        difference=num2-num1;
+        System.out.println("The difference of these numbers is :" +difference);
+
+        product=num1*num2;
+        System.out.println("The product of these numbers is :" +product);
+
+        quotient=num2/num1;
+        System.out.println("The quotient of these numbers is :" +quotient);
+
+
+    }
+}
