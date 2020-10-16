@@ -1,0 +1,26 @@
+package com.company;
+
+import java.util.Scanner;
+
+public class conditionals {
+    public static void main(String[] args) {
+        double num1,num2,sum;
+        Scanner sc=new Scanner(System.in);
+
+        System.out.println("Enter First Number : ");
+        num1=sc.nextDouble();
+
+        System.out.println("Enter Second Number :  ");
+        num2=sc.nextDouble();
+
+        sum =num1+num2;
+        System.out.println("The sum of these numbers is :" +sum);
+
+        if(sum>50){
+            System.out.println("The Number is greater than 50");
+        }
+        else {
+            System.out.println("The Number is not  greater than 50");
+        }
+    }
+}
