@@ -1,4 +1,5 @@
-import com.google.gson.Gson;
+package com.bcind.day12;
+
 import com.google.gson.GsonBuilder;
 
 import java.util.ArrayList;
