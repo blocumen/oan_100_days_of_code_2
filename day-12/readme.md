@@ -10,3 +10,6 @@ How to install GSON from google.
 While compiling in the Command Prompt use the -cp or -classpath to set 
 your gson.jar in your classpath. Something like this:
 javac -classpath <LOCATION_TO_GSON JAR FILE>  *.java
+
+
+Ref: https://www.youtube.com/watch?v=apnIzEf0jnA
