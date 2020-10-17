@@ -1,3 +1,10 @@
+/*
+    Module 3 - Day 15
+    Conditional and Loops
+
+    Expand the method sum in the exercise template so that it calculates and returns the sum of the numbers that are
+    given as the parameters. If Sum of the numbers are greater than 50 then print “The Number is greater than 50” or vice versa.
+*/
 import java.util.Scanner;
 
 public class Day15_conditional {

@@ -1,3 +1,9 @@
+/*
+    Module 3 - Day 14
+    Data Types, Variables and Operators
+
+    Write a program that asks the user for two numbers and prints their sum, difference, product and quotient.
+ */
 import java.util.Scanner;
 
 public class Day14 {
