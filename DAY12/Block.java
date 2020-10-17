@@ -41,7 +41,7 @@ public class Block
 				nonce ++;
 				hash = calculateHash();
 		}
-		System.out.println("AFTER ADDING NOUNCE / MINED BLOCK / POW : " + hash);
+		System.out.println("AFTER ADDING NONCE / MINED BLOCK / POW : " + hash);
 		System.out.println("\n");
 	}
 }
