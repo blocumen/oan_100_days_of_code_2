@@ -21,11 +21,13 @@ public class BasicCalculator {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter 1 for sum \n Ente 2 for sub \n Enter 3 for multiplication \n Enter 4 for division\n Enter 0 to exit");
         int choice = sc.nextInt();
-        System.out.println("enter the two numbers");
-        Double a = sc.nextDouble();
-        Double b = sc.nextDouble();
+       
 
         while (choice != 0) {
+		
+		    System.out.println("enter the two numbers");
+       		Double a = sc.nextDouble();
+        	Double b = sc.nextDouble();
             switch (choice) {
                 case 1:
                     System.out.println(sum(a, b));
