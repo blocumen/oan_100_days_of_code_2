@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Assignment1 {
+public class Assignment_14 {
 	
 	public int 		num1 	;
 	public int 		num2 	;
@@ -11,6 +11,7 @@ public class Assignment1 {
 		result = num1  + num2 ;
 		return result;
 	}
+	
 	
 	public static float substraction(int num1, int num2)
 	{
