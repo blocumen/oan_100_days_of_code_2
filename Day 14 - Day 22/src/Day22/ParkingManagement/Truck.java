@@ -1,5 +1,9 @@
 package Day22.ParkingManagement;
 
+/**
+ * @author HGunjalli
+ *
+ */
 public class Truck extends Vehicle {
 	private double cargoVolume;
 

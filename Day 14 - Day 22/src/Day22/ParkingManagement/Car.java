@@ -1,5 +1,9 @@
 package Day22.ParkingManagement;
 
+/**
+ * @author HGunjalli
+ *
+ */
 public class Car extends Vehicle {
 	private int numDoors;
 	private String color;
@@ -9,12 +13,11 @@ public class Car extends Vehicle {
 		this.numDoors = numDoors;
 		this.color = color;
 	}
-	
-	public Car()
-	{
+
+	public Car() {
 		super();
 	}
-	
+
 	public int getNumDoors() {
 		return numDoors;
 	}

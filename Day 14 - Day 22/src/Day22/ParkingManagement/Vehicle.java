@@ -1,5 +1,9 @@
 package Day22.ParkingManagement;
 
+/**
+ * @author HGunjalli
+ *
+ */
 public class Vehicle {
 	private String brandName;
 	private String regNum;
