@@ -1,0 +1,26 @@
+
+//method created 
+
+package myPackage;
+
+import java.util.Scanner;
+
+public class myClass {
+
+    public static void getNames(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your name :");
+        String name = sc.nextLine();
+        System.out.println("Your name is " +name);
+    }
+}
+
+//call the method in another class
+package myPackage;
+
+public class Main {
+
+    public static void main(String[] args) {
+        myClass.getNames();
+    }
+}
