@@ -1,0 +1,39 @@
+package com.company;
+
+public class day21 {
+    public static void main(String args[]) {
+        byte num = 9;
+// convert byte into short type
+        short svalue = num;
+        System.out.println("byte value: " + num);
+        System.out.println("short value: " + svalue);
+// convert short into int
+        int ivalue = svalue;
+        System.out.println("short value: " + svalue);
+        System.out.println("int value: " + ivalue);
+
+//convert int into long
+        long lvalue = ivalue;
+        System.out.println("int value: " + ivalue);
+        System.out.println("long value: " + lvalue);
+        
+
+// convert long into float
+        float fvalue = lvalue;
+        System.out.println("long value: " + lvalue);
+        System.out.println("float value: " + fvalue);
+
+// convert float into double
+        double dvalue = fvalue;
+        System.out.println("float value: " + fvalue);
+        System.out.println("double value: " + dvalue);
+
+
+
+
+    }
+
+
+
+}
+
