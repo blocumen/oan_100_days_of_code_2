@@ -16,11 +16,13 @@ public class MakeCustomVehicle {
 		
 		c1.increaseMilage(4);
 		c1.addWheels(1);
+		c1.increaseHorsePower(4);
 		
 		Bike b1 = new Bike(2, 45, 220);
 		
 		b1.increaseMilage(2);
 		b1.addWheels(1);
+		b1.increaseHorsePower(2);
 		
 		System.out.println("===================================================");
 		System.out.println("Properties of Car Object");

@@ -23,43 +23,44 @@ public class Car extends Vehicle {
 	}
 
 	public float increaseMilage(int multiple) {
-		veh.setMilage((int)op.product(veh.getMilage(), multiple));
+		veh.setMilage((int) op.product(veh.getMilage(), multiple));
 		return veh.getMilage();
 	}
 
 	public int decreaseMilage(int multiple) {
-		veh.setMilage((int)op.division(veh.getMilage(), multiple));
+		veh.setMilage((int) op.division(veh.getMilage(), multiple));
 		return veh.getMilage();
 	}
 
 	public int addWheels(float extraWheels) {
-		if(getNumOfWheels() >= 4)
-		{
+		if (getNumOfWheels() >= 4) {
 			System.out.println("Cannot add more than 4 wheels to the car.");
 			veh.setNumOfWheels(4);
 			return getNumOfWheels();
 		}
-		veh.setNumOfWheels((int)op.sum(veh.getNumOfWheels(), extraWheels));
+		veh.setNumOfWheels((int) op.sum(veh.getNumOfWheels(), extraWheels));
 		return veh.getNumOfWheels();
 	}
 
 	public int increaseCost(float multiple) {
-		veh.setMilage((int)op.product(veh.getMilage(), multiple));
+		veh.setMilage((int) op.product(veh.getMilage(), multiple));
 		return veh.getMilage();
 	}
-	
-	public int getMilage()
-	{
+
+	public int increaseHorsePower(int multiple) {
+		veh.setHorsePower((int) op.product(veh.getHorsePower(), multiple));
+		return veh.getHorsePower();
+	}
+
+	public int getMilage() {
 		return veh.getMilage();
 	}
-	
-	public int getNumOfWheels()
-	{
+
+	public int getNumOfWheels() {
 		return veh.getNumOfWheels();
 	}
-	
-	public int getHorsePower()
-	{
+
+	public int getHorsePower() {
 		return veh.getHorsePower();
 	}
 
