@@ -2,6 +2,7 @@ package com.bcind.day20;
 
 public class Engine extends Part {
     private String _eng_type;
+//  inherited from Part class;
 //    private String _id;
 //    private String _mfg;
 //    private String _desc;
