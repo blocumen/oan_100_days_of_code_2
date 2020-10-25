@@ -31,6 +31,7 @@ public class ParkingLot {
         if (found) {
             System.out.println("vehicle unparked is ");
             v[i].display();
+            //changing the order of vehicle and filling the gaps if any
             for (int j = i; j < currentFullSLots; j++) {
                 v[j] = v[j + 1];
             }
