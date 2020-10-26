@@ -28,6 +28,8 @@ public class PerformOperations {
 			System.out.println("The result is: " + (num1 / num2));
 		else
 			System.out.println("Operation not found!");
+		
+		scan.close();
 	}
 
 }
