@@ -7,6 +7,13 @@
     <groupId>org.bcind.day24</groupId>
     <artifactId>day_24</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <!--    <profiles>-->
+    <!--        <profile>-->
+    <!--            <id>test</id>-->
+    <!--        </profile>-->
+    <!--    </profiles>-->
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
