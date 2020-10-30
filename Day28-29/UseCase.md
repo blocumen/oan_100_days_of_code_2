@@ -4,4 +4,4 @@
  ```
   
 ### Medical Record Management System 
- ** A tamper proof record keeping and management system for medical priscription and  medical history of person. ** 
+ **A tamper proof record keeping and management system for medical priscription and  medical history of person. ** 
