@@ -1,0 +1,25 @@
+package myPackage;
+import java.util.*;
+public class MyClass {
+
+    public void getNames(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your name :");
+        String name = sc.nextLine();
+        System.out.println("Your name is " +name);
+    }
+}
+
+//Create a new package and create ClientClass class and call the method from myPackage;
+
+package ClientPackage;
+
+import myPackage.MyClass;
+public class ClientClass {
+
+    public static void main(String[] args){
+        MyClass instance =new MyClass();
+        instance.getNames();
+    }
+}
+
