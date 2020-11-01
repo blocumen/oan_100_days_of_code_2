@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Module 8 HTML - HTML Tags </title>
+    <h1>I am the title of the story.</h1>
+
+
+    <h1>100 days of CODE </h1>
+
+    <p>By NICKY J</p>
+
+    <h2>Month 1</h2>
+
+    <p>100 Days of CODE is an initiave by Blocumen Studios and OAN . The objective is to create awareness about blockchain and expand the developer community of blockchain by training more developers in batches od 100 days</p>
+
+    <h2>Month 1 <h2>
+
+    <p>Month 1 introduces  <h4> Introduction to blockchain</h4> <h4> Types blockchain</h4> <h4> Blockchain Coding</h4> <h4> Java Coding</h4> <h4> HTML Tags</h4><h4> Introduction to MAVEN</h4></p>
+
+
+
+
+</head>
+<body>
+
+</body>
+</html>
