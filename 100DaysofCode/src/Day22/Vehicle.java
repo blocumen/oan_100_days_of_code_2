@@ -1,10 +1,22 @@
 package Day22;
 
 public class Vehicle {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public String brand;
+	public String Registration;
+	
+	public Vehicle(String brand,String Registration) {
+		this.brand= brand;
+		this.Registration= Registration;
 	}
+	public String getBrandName() {
+		return brand;
+	}
+	
+	public String getRegistrationNumber() {
+		return Registration;
+	}
+	
+
+	
 
 }

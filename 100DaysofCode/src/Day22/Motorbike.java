@@ -1,10 +1,11 @@
 package Day22;
 
 public class Motorbike extends Vehicle{
-	
-	public Motorbike(String brand, String Registration) {
+	public int engineSize;
+	public Motorbike(String brand, String Registration,int engineSize) {
 		super(brand, Registration);
-		// TODO Auto-generated constructor stub
+		this.engineSize=engineSize;
+		
 	}
 
 }
