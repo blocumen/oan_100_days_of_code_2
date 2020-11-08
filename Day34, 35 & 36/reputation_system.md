@@ -1,4 +1,4 @@
-# Reputation System
+# Decentralized Identity and Reputation System
 
 ```$
 Group 4 : Open App Use Case
