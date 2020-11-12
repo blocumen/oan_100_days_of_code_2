@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="multiplyby10-float,">
+          <value>
+            <list>
+              <option value="4.5" />
+            </list>
+          </value>
+        </entry>
+        <entry key="multiplyby10-int,">
+          <value>
+            <list>
+              <option value="3.4" />
+            </list>
+          </value>
+        </entry>
+        <entry key="sayHello-">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Multiplyby10.args" value="" />
+        <entry key="Multiplyby10.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

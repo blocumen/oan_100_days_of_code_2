@@ -3,6 +3,13 @@
   <component name="aion4j-cache">
     <option name="methodArgs">
       <map>
+        <entry key="doubletheint-int,">
+          <value>
+            <list>
+              <option value="5" />
+            </list>
+          </value>
+        </entry>
         <entry key="greet-java.lang.String,">
           <value>
             <list>
@@ -13,6 +20,20 @@
         <entry key="sayHello-">
           <value>
             <list />
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="blah" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setString1-java.lang.String,">
+          <value>
+            <list>
+              <option value="one piece" />
+            </list>
           </value>
         </entry>
       </map>

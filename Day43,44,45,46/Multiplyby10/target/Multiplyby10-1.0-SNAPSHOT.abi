@@ -1,0 +1,5 @@
+1
+org.example.HelloAvm
+Clinit: ()
+public static void sayHello()
+public static float multiplyby10(float)

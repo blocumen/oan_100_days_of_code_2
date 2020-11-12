@@ -28,5 +28,10 @@ public class HelloAvm
         myStr = newStr;
         Blockchain.println("New string is " + myStr);
     }
+    @Callable
+    public static void setString1(String newStr) {
+        myStr = newStr;
+        Blockchain.println("New string is " + myStr);
+    }
 
 }
