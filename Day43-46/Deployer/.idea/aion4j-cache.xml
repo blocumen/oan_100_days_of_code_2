@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="getString-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="mult-int,int,">
+          <value>
+            <list>
+              <option value="20" />
+              <option value="2" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="Hello Praveen" />
+            </list>
+          </value>
+        </entry>
+        <entry key="sum-int,int,">
+          <value>
+            <list>
+              <option value="10" />
+              <option value="20" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Deployer.args" value="" />
+        <entry key="Deployer.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
