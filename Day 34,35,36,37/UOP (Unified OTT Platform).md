@@ -25,7 +25,7 @@ Let's say an user is a very big fan of **Game of Thrones(GoT)** and wants to re 
 
 The following picture roughly depicts the workflow of the application.
 
-![How it Works](/images/how-it-works.png)
+![How it Works](https://github.com/blocumen/oan_100_days_of_code_2/blob/harishgunjalli/Day%2034%2C35%2C36%2C37/images/how-it-works.png)
 
 * At first, the user logins to the app where the content is streamed.
 * Once he logs in, he will look for the content, here GoT
@@ -66,4 +66,4 @@ Yes, you are right. You can hold one account and then can stream all the content
 
 Here is the very high level overview of the idea.
 
-![GitHub Logo](/images/Overview.png)
+![GitHub Logo](https://github.com/blocumen/oan_100_days_of_code_2/blob/harishgunjalli/Day%2034%2C35%2C36%2C37/images/Overview.png)
