@@ -17,6 +17,13 @@
             </list>
           </value>
         </entry>
+        <entry key="multiplybyy10-double,">
+          <value>
+            <list>
+              <option value="4.7" />
+            </list>
+          </value>
+        </entry>
         <entry key="sayHello-">
           <value>
             <list />
@@ -26,7 +33,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="Multiplyby10.args" value="" />
+        <entry key="Multiplyby10.args" value="-Z true" />
         <entry key="Multiplyby10.dontask" value="false" />
       </map>
     </option>

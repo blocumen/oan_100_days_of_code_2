@@ -17,5 +17,10 @@ public class HelloAvm
         return a*10;
     }
 
+//    @Callable
+//    public static double multiplyby10(double a){
+//        return a*10;
+//    }
+//polymorphism is not working , 2 or more function with same name is not working
 
 }

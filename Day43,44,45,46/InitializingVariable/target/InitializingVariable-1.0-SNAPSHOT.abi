@@ -1,0 +1,4 @@
+1
+org.example.InitializingVariable
+Clinit: (boolean)
+public static boolean getStatus()
