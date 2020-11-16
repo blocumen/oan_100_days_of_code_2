@@ -1,0 +1,10 @@
+1
+org.example.HelloAvm
+Clinit: ()
+public static void checkOwnercalled()
+public static void addressOffuncCaller()
+public static void calculateGasofFunc()
+public static void getCode(Address)
+public static void emitEvent()
+public static long getBlockNumber(String)
+public static void getCallerAddress()
