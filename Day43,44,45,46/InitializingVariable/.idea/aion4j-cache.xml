@@ -3,6 +3,11 @@
   <component name="aion4j-cache">
     <option name="methodArgs">
       <map>
+        <entry key="getName-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="getStatus-">
           <value>
             <list />
@@ -17,7 +22,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="InitializingVariable.args" value="-Z true" />
+        <entry key="InitializingVariable.args" value="-Z true -T sanjay" />
         <entry key="InitializingVariable.dontask" value="false" />
       </map>
     </option>

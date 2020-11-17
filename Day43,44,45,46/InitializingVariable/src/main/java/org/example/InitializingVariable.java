@@ -9,6 +9,9 @@ public class InitializingVariable
 {
     @Initializable
     private static boolean status;
+//
+//    @Initializable
+//    private static String name;
     // pass -Z true in deployment arguments
     /*
       -I int
@@ -29,5 +32,12 @@ public class InitializingVariable
         Blockchain.println("current status is "+status);
         return status;
     }
+
+//    @Callable
+//    public static String getName(){
+//        Blockchain.println("name is "+name);
+//        return name;
+//    }
+       // pass values to all arguments when initialized variables , otherwise it will give you error
 
 }

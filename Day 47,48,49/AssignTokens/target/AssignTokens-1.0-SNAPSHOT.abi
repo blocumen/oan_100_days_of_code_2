@@ -1,0 +1,5 @@
+1
+org.example.AssignTokens
+Clinit: ()
+public static void AssignTokens(int)
+public static void checkBalance()

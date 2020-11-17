@@ -1,4 +1,5 @@
 1
 org.example.InitializingVariable
-Clinit: (boolean)
+Clinit: (boolean, String)
 public static boolean getStatus()
+public static String getName()

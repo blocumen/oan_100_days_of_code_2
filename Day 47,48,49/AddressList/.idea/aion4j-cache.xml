@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="addAddress-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="addressesCount-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="removeAddress-">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="AddressList.args" value="" />
+        <entry key="AddressList.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection>
+        <option value="a01aa6832bc5823f4270f05a480e2d2259d7819d53be280aaba75749b441c77a" />
+        <option value="a0b35f3dce30b7318c20ac0b52321136fcc30e635b31a8cb997a231f65a84ab2" />
+        <option value="a0609841df66d0d6f7e83eac4c74d9cfa5079f335b3b9db31e2a4034a1c1ea4e" />
+      </collection>
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

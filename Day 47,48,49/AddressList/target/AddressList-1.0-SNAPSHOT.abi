@@ -1,0 +1,6 @@
+1
+org.example.AddressList
+Clinit: ()
+public static void addAddress()
+public static int addressesCount()
+public static void removeAddress()
