@@ -1,3 +1,9 @@
+/*
+    Module 7 - Day 43,44
+    Callable functions
+
+    Write a method that would multiple a number by 10 and return the value.
+ */
 package org.example;
 
 import avm.Blockchain;
