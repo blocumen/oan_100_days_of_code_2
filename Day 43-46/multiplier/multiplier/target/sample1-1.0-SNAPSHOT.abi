@@ -1,0 +1,4 @@
+1
+org.example.multiplier
+Clinit: ()
+public static int mulby10(int)
