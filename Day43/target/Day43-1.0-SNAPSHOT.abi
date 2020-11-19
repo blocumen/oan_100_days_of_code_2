@@ -1,0 +1,5 @@
+1
+org.example.HelloAvm
+Clinit: ()
+public static int getString()
+public static int setString(int)
