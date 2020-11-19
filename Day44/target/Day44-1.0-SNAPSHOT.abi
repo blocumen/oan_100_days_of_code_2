@@ -1,0 +1,4 @@
+1
+org.example.Variable
+Clinit: (String)
+public static String getStatus()
