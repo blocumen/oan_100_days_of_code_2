@@ -1,3 +1,10 @@
+/*
+    Module 7 - Day 46
+    Blockchain class
+
+    Write a smart contract which would only allow the deployer address to call a methods.
+    Define your own methods.
+ */
 package org.example;
 
 import avm.Address;
@@ -39,6 +46,7 @@ public class Deployer
 
     @Callable
     public static int mult(int a, int b) {
+		onlyOwner();
         return a * b;
     }
 }

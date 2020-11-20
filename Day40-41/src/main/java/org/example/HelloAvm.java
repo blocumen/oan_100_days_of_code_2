@@ -1,3 +1,7 @@
+/*
+    Module 7 - Day 40,41
+    Sample Aion Java Smart contract
+ */
 package org.example;
 
 import avm.Blockchain;
