@@ -1,0 +1,4 @@
+1
+org.example.Owner
+Clinit: ()
+public static Address getOwner()

@@ -14,7 +14,7 @@ public class AddressList
         Address callerAddress = Blockchain.getCaller();
         Blockchain.require(!addresses.contains(callerAddress));
         addresses.add(callerAddress);
-        Blockchain.println("Address" +callerAddress.toString() + "added succesfully");
+        Blockchain.println("Address :" +callerAddress.toString() + " added succesfully");
     }
 
     @Callable

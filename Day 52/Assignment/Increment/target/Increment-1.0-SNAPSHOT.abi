@@ -1,0 +1,5 @@
+1
+org.example.Increment
+Clinit: ()
+public static void incrementCount(Address)
+public static int getCount()

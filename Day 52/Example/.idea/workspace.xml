@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58b298be-fea1-42f1-b03a-e3caa8fc138b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AddressList/src/main/java/org/example/AddressList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 47,48,49/AddressList/src/main/java/org/example/AddressList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AddressList/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/balance" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 47,48,49/AddressList/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/balance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AddressList/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/nonce" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 47,48,49/AddressList/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/nonce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/original-AssignTokens-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/original-AssignTokens-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/storage/.aion4j.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/storage/.aion4j.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/transformed_code" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/transformed_code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/storage/account_ac48b2ad072796969606b7f4fecb1e41f73753978c9990c2873f76f5d6c32846/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/storage/account_ea31e36e1edd290ecd4c191f987ed029d3e64e4bc0bd291a86c464784b3ff9e2/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day 47,48,49/AssignTokens/target/storage/account_f2d00d070cc09ff88fa340cff07319bb03e7fcc04fcbfeb5bb6510756ecdcb99/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/.idea/aion4j-cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/.idea/aion4j-cache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/InitializingVariable-1.0-SNAPSHOT.abi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/InitializingVariable-1.0-SNAPSHOT.abi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/InitializingVariable-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/InitializingVariable-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/classes/org/example/InitializingVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/classes/org/example/InitializingVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/original-InitializingVariable-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/original-InitializingVariable-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/.aion4j.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/.aion4j.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/code" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/graph" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/transformed_code" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/transformed_code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_916cd26f67e5c5e92c5df4320c43852e3a095f0270cf7072fca0cbc89e2f4512/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/balance" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/balance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/nonce" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/nonce" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day43,44,45,46/InitializingVariable/target/storage/account_b153df4f2e0e3c6f682f0d5aab537a6b4d5c5ef739052d99d56bf5838bf24afb/balance" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kXYBJGuvIss5tE8ktsXEUPO9Lr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b298be-fea1-42f1-b03a-e3caa8fc138b" name="Default Changelist" comment="" />
+      <created>1605848267033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605848267033</updated>
+    </task>
+    <servers />
+  </component>
+</project>

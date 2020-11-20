@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="getCount-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="incrementCount-avm.Address,">
+          <value>
+            <list>
+              <option value="0b8c14cf47004bafdf8a2cc3a890dab2e6c700f0cbc288eb9fd3054eb3d83e2b" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Increment.args" value="" />
+        <entry key="Increment.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

@@ -13,6 +13,11 @@
             <list />
           </value>
         </entry>
+        <entry key="hello-">
+          <value>
+            <list />
+          </value>
+        </entry>
         <entry key="sayHello-">
           <value>
             <list />
@@ -22,7 +27,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="InitializingVariable.args" value="-Z true -T sanjay" />
+        <entry key="InitializingVariable.args" value="-Z true" />
         <entry key="InitializingVariable.dontask" value="false" />
       </map>
     </option>

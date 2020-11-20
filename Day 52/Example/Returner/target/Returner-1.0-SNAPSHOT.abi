@@ -1,0 +1,4 @@
+1
+org.example.Returner
+Clinit: ()
+public static String getString(int)
