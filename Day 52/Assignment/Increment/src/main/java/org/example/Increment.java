@@ -18,9 +18,12 @@ public class Increment
        ABIStreamingEncoder encoder = new ABIStreamingEncoder();
        byte[] data = encoder.encodeOneString("getOwner").toBytes();
        Result result= Blockchain.call(contractAddress, BigInteger.ZERO,data,Blockchain.getRemainingEnergy());
-       ABIDecoder ownerAddress = new ABIDecoder(result.getReturnData());
-       ownerAddress.equals(Blockchain.getCaller());
+       ABIDecoder decoder = new ABIDecoder(result.getReturnData());
+       Address ownerAddress = decoder.decodeOneAddress();
+       Blockchain.require(ownerAddress.equals(Blockchain.getCaller()));
        count++;
+       Blockchain.println("The owner address is "+ownerAddress);
+       Blockchain.println("The caller address is "+ Blockchain.getCaller());
        Blockchain.println("The Count after Increment is "+count);
    }
 

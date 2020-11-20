@@ -2,13 +2,14 @@
 <project version="4">
   <component name="aion4j">
     <option name="web3RpcUrl" value="" />
-    <option name="account" value="" />
+    <option name="account" value="a0ac430a3fa0848f018568ddead66416db2d65f8d7d1be99cf98acb74516e6e0" />
+    <option name="encryptedPk" value="hjlHjqn4wOPClbzNCz0JVry8T0giLcJdKFKAQ+85moJPHyCJB2z4NllyGVJhuiXW6+XAEj1/2cU7w+M9Ld+J7rj5X+wDco+JjuVB9cOew3hZHScKuf7fSkggkwOqghvGo8d8+YTi8eybbsLGZlP6a0i7vhteSfVrpXNZUov2NbIzMQ09rBKOVaFx3A7lZzYd" />
     <option name="deployNrg" value="5000000" />
     <option name="deployNrgPrice" value="100000000000" />
     <option name="contractTxnNrg" value="2000000" />
     <option name="contractTxnNrgPrice" value="100000000000" />
     <option name="mvnProfile" value="remote" />
     <option name="avmStoragePath" value="$PROJECT_DIR$/../../../../../avm_storage" />
-    <option name="localDefaultAccount" value="" />
+    <option name="localDefaultAccount" value="a0609841df66d0d6f7e83eac4c74d9cfa5079f335b3b9db31e2a4034a1c1ea4e" />
   </component>
 </project>
