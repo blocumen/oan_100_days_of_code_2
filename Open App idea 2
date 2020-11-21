@@ -1,0 +1,20 @@
+Problem statement -
+In current market there are tons of online property listing platforms exist and the major problems the property buyers face by these platforms are.
+1. Same property is listed in multiple platform's by owners and by multiple property dealers with different price.
+2. Fake property details are posted by property dealers just to get contact details of the customers.
+3. Listed properties already sold but not removed or marked as sold from the platform.
+4. Properties are listed with no proper and ligitimate information(exact location).
+5. Some times not able to contact listed property owner or dealer.
+6. Once the property buyers finalise to buy the property but no means to verify the property documents.
+7. Huge commission is paid to the dealer by buyer.
+8. Frauds are happening by the dealers/owners by taking the commission/amount with multiple buyers for the same property.
+
+Open app extension to over come these problems -
+1. The price of the property should be same across the platforms.
+2. The buyer personal details must be protected.
+3. Sold properties should be marked as sold and must be soft deleted from the platforms.
+4. Must authenticate the property listing (once the owner or dealer request  to list the property the entered property details must be authenticated).
+5. Always able to contact required contact person.
+6. Platform offer service to help to verify the property documents.
+7. Commission must be fixed by the platforms.
+8. Escrow system should be implemented with in the platform(until the deal is not complete commission/amount should not be released to dealer /owner).
