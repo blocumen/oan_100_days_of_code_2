@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j">
+    <option name="web3RpcUrl" value="" />
+    <option name="account" value="" />
+    <option name="deployNrg" value="5000000" />
+    <option name="deployNrgPrice" value="100000000000" />
+    <option name="contractTxnNrg" value="2000000" />
+    <option name="contractTxnNrgPrice" value="100000000000" />
+    <option name="mvnProfile" value="remote" />
+    <option name="avmStoragePath" value="" />
+    <option name="localDefaultAccount" value="a0ad7bb3cf98b72a5b2438e0ca77ba6d64ae2f6581fb27acdb00cdcba52db091" />
+    <option name="shouldAskCallerAccountEverytime" value="true" />
+  </component>
+</project>
