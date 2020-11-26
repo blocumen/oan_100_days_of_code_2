@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="addBuyerInfo-avm.Address,java.lang.String,java.lang.String,int,">
+          <value>
+            <list>
+              <option value="0xa092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca" />
+              <option value="Mahindra" />
+              <option value="Thar 4x4" />
+              <option value="900000" />
+            </list>
+          </value>
+        </entry>
+        <entry key="getBuyerInfo-">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="AionBufferExample.args" value="" />
+        <entry key="AionBufferExample.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
