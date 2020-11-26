@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="getReturnerContractAddress-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getStringInAnotherContract-int,">
+          <value>
+            <list>
+              <option value="0" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Caller.args" value="-A 0bbf5a4846e86fb6c7f72d841339e5de16e592ee788595e3237e3e2549383b85" />
+        <entry key="Caller.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection>
+        <option value="0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194" />
+        <option value="0bbf5a4846e86fb6c7f72d841339e5de16e592ee788595e3237e3e2549383b85" />
+      </collection>
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
