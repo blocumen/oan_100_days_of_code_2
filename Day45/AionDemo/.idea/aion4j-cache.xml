@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="getMultiply-int,">
+          <value>
+            <list>
+              <option value="10" />
+            </list>
+          </value>
+        </entry>
+        <entry key="getResult-int,">
+          <value>
+            <list>
+              <option value="5" />
+            </list>
+          </value>
+        </entry>
+        <entry key="sayHello-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="setString-int,">
+          <value>
+            <list>
+              <option value="10" />
+            </list>
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="Sooda" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="AionDemo.args" value="" />
+        <entry key="AionDemo.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
