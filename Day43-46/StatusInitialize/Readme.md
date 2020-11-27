@@ -4,13 +4,13 @@ For example, -T Deployed
 	
 ## Reference for deployment arguments
 Options	Datatypes  
--I 	int  
--J 	long  
--S 	short  
--C 	char  
--F 	float  
--D 	double  
--B 	byte  
--Z 	boolean  
--A 	Address  
--T 	String  
+-I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int  
+-J&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;long  
+-S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;short  
+-C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;char  
+-F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;float  
+-D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;double  
+-B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byte  
+-Z&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;boolean  
+-A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address  
+-T&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String  
