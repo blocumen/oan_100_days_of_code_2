@@ -44,7 +44,7 @@ public class CarMap {
 
     @Callable
     public static String getCars() {
-        Set<Integer> carIds = cars.keySet();
+        Set<Integer> carIds = cars.keySet(); // Alternative would be to use getMap().keySet();
         String returnString = "\n";
 
         // Loop through each car based on their ID.
