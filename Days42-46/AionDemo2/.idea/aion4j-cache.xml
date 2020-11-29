@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="AssignTokens-int,">
+          <value>
+            <list>
+              <option value="10" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addAddresses-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="addAddresses-avm.Address,">
+          <value>
+            <list>
+              <option value="a05810ca5772fc7a7a8f14b1aa02407a7c1e9fdb17507866294d81d0f19bea3e" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addCar-java.lang.String,java.lang.String,java.lang.String,">
+          <value>
+            <list>
+              <option value="Fiat" />
+              <option value="L500" />
+              <option value="White" />
+            </list>
+          </value>
+        </entry>
+        <entry key="checkAddress-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="checkAddress-java.lang.String,">
+          <value>
+            <list>
+              <option value="a05810ca5772fc7a7a8f14b1aa02407a7c1e9fdb17507866294d81d0f19bea3e" />
+            </list>
+          </value>
+        </entry>
+        <entry key="checkBalance-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="emitEvent-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getBlockNumber-java.lang.String,">
+          <value>
+            <list>
+              <option value="Block Number" />
+            </list>
+          </value>
+        </entry>
+        <entry key="getCallerAddress-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getResult-int,">
+          <value>
+            <list>
+              <option value="5" />
+            </list>
+          </value>
+        </entry>
+        <entry key="getStatus-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getStringInAnotherContract-int,">
+          <value>
+            <list>
+              <option value="1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="logMyString-java.lang.String,">
+          <value>
+            <list>
+              <option value="&quot;Rama&quot;" />
+            </list>
+          </value>
+        </entry>
+        <entry key="ownerVerfiy-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="returnEnergy-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="setString-java.lang.String,">
+          <value>
+            <list>
+              <option value="&quot;New Hello!" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="AionDemo2.args" value="-Z False" />
+        <entry key="AionDemo2.dontask" value="true" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
