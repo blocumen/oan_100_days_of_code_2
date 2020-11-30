@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Conditionals: Task 1</title>
+    <style>
+      p {
+        color: purple;
+        margin: 0.5em 0;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+    </style>
+  </head>
+
+  <body>
+    <section class="preview"></section>
+  </body>
+
+  <script>
+    let season = "monsoon";
+    let response;
+
+    // Add your code here
+    if (season === "summer") response = "Summer is hot and humid. It makes me sweat!";
+    else if (season === "monsoon") response = "Oooh! Time to enjoy the rains!";
+    else if (season === "winter") response = "The hoodie season!";
+    else response = "I don't know that season."
+
+    // Don't edit the code below here!
+
+    const section = document.querySelector("section");
+
+    let para1 = document.createElement("p");
+    para1.textContent = response;
+    section.appendChild(para1);
+  </script>
+</html>
