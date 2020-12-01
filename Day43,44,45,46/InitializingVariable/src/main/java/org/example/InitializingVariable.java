@@ -30,6 +30,7 @@ public class InitializingVariable
     @Callable
     public static boolean getStatus(){
         Blockchain.println("current status is "+status);
+
         return status;
     }
 

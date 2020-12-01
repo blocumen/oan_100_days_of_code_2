@@ -1,4 +1,5 @@
 1
-org.example.Owner
+org.example.Increment
 Clinit: ()
-public static Address getOwner()
+public static void incrementCount(Address)
+public static int getCount()
