@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="getOwnerAddress-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getString-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="incrementCnt-avm.Address,">
+          <value>
+            <list>
+              <option value="0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="OwnerIncrement.args" value="" />
+        <entry key="OwnerIncrement.dontask" value="true" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>
