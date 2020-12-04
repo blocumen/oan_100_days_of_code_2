@@ -1,0 +1,5 @@
+1
+org.example.HelloAvm
+Clinit: ()
+public static String getMake()
+public static int getYear()
