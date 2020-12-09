@@ -16,7 +16,7 @@
         <aion4j.plugin.version>1.0.0</aion4j.plugin.version>
         <avm.lib.dir>${project.basedir}/lib</avm.lib.dir>
 
-        <contract.main.class>org.example.assignment2</contract.main.class>
+        <contract.main.class>org.example.HelloAvm</contract.main.class>
     </properties>
 
     <dependencies>

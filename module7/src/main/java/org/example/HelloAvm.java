@@ -2,11 +2,9 @@ package org.example;
 
 import avm.Blockchain;
 import org.aion.avm.tooling.abi.Callable;
-import org.aion.avm.tooling.abi.Initializable;
 
 public class HelloAvm {
-    @Initializable
-    private static String myString;
+//    private static String myString = "test";
     private static String myStr = "Hello AVM";
 
     static {
@@ -46,4 +44,10 @@ public class HelloAvm {
                 Blockchain.getCaller().toByteArray(), myStr.getBytes());
     }
 
+//    @Callable
+//    public static void getBlockNumber(String newStr) {
+//        Blockchain.println("Block number to be mined: ");
+//        Blockchain.println(Long.toString(Blockchain.getBlockNumber()));
+////        return Blockchain.getBlockNumber();
+//    }
 }
