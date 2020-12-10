@@ -13,6 +13,7 @@ public class Owner
 
     @Callable
     public static Address getOwner(){
+
         return owner;
     }
 

@@ -8,11 +8,14 @@ public class HelloAvm
 {
     private static Address owner ;
    static {
+
         owner = Blockchain.getCaller();
    }
    private  static void onlyOwner(){
        Blockchain.require(Blockchain.getCaller().equals(owner));
    }
+
+
 
    @Callable
    public static void checkOwnercalled(){

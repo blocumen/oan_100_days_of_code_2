@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: org.example.InitializingVariableRuleTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.042 s <<< FAILURE! - in org.example.InitializingVariableRuleTest
+testSayHello(org.example.InitializingVariableRuleTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.example.InitializingVariableRuleTest.testSayHello(InitializingVariableRuleTest.java:38)
+
+testSetString(org.example.InitializingVariableRuleTest)  Time elapsed: 0.018 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.example.InitializingVariableRuleTest.testSetString(InitializingVariableRuleTest.java:51)
+
+testGetString(org.example.InitializingVariableRuleTest)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.example.InitializingVariableRuleTest.testGetString(InitializingVariableRuleTest.java:64)
+

@@ -1,0 +1,5 @@
+1
+org.example.AirBnB
+Clinit: ()
+public static void SellFlat(int)
+public static void butFlat(int)

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="SellFlat-int,">
+          <value>
+            <list>
+              <option value="1" />
+            </list>
+          </value>
+        </entry>
+        <entry key="butFlat-int,">
+          <value>
+            <list>
+              <option value="1" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="Airbnb.args" value="" />
+        <entry key="Airbnb.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

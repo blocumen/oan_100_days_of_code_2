@@ -9,6 +9,9 @@ public class InitializingVariable
 {
     @Initializable
     private static boolean status;
+
+    @Initializable
+    private static String name;
 //
 //    @Initializable
 //    private static String name;

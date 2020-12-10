@@ -27,7 +27,7 @@
     </option>
     <option name="deployArgs">
       <map>
-        <entry key="InitializingVariable.args" value="-Z true" />
+        <entry key="InitializingVariable.args" value="-Z true -T Sanjay" />
         <entry key="InitializingVariable.dontask" value="false" />
       </map>
     </option>

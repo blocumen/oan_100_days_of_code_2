@@ -18,4 +18,8 @@ public class Deployer
        onlyOwner();
        Blockchain.println("Deployer of this smart contract has called the function");
    }
+   @Callable
+    public static void fun2(){
+
+   }
 }
