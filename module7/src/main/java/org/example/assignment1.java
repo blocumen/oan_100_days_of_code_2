@@ -1,12 +1,13 @@
 package org.example;
 
+import avm.Blockchain;
 import org.aion.avm.tooling.abi.Callable;
 
 public class assignment1 {
-    private static final Integer X = 0;
+//    1. Write a method that would multiple a number by 10 and return the value.
 
     @Callable
-    public static int mul(int y) {
-        return y * 10;
+    public static int mul(int num){
+        return num * 10;
     }
 }

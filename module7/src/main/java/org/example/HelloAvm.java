@@ -3,13 +3,9 @@ package org.example;
 import avm.Blockchain;
 import org.aion.avm.tooling.abi.Callable;
 
-public class HelloAvm {
-//    private static String myString = "test";
+public class HelloAvm
+{
     private static String myStr = "Hello AVM";
-
-    static {
-        logMyString("MyStringInitialization");
-    }
 
     @Callable
     public static void sayHello() {
@@ -33,21 +29,16 @@ public class HelloAvm {
         Blockchain.println("New string is " + myStr);
     }
 
+
+    static {
+        logMyString("MyStringInitialization");
+    }
+    //Emit Event
     @Callable
-    public static String Greet(String name) {
-        return "Hello " + name;
+    public static void logMyString(String topic){
+        Blockchain.log(
+                topic.getBytes(), Blockchain.getCaller().toByteArray(),
+                myStr.getBytes());
     }
 
-    @Callable
-    public static void logMyString(String topic) {
-        Blockchain.log(topic.getBytes(),
-                Blockchain.getCaller().toByteArray(), myStr.getBytes());
-    }
-
-//    @Callable
-//    public static void getBlockNumber(String newStr) {
-//        Blockchain.println("Block number to be mined: ");
-//        Blockchain.println(Long.toString(Blockchain.getBlockNumber()));
-////        return Blockchain.getBlockNumber();
-//    }
 }
