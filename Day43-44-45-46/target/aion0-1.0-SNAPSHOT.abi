@@ -1,0 +1,14 @@
+1
+org.example.SmartContract1
+Clinit: (String)
+public static void sayHello()
+public static String greet(String)
+public static String getString()
+public static void setString(String)
+public static int intoTen(int)
+public static void setStatus(String)
+public static String getStatus()
+public static void setMessage(String)
+public static String setNewString(String)
+public static String get2String()
+public static void set2String(String)
