@@ -1,0 +1,10 @@
+1
+org.example.AddressLedger
+Clinit: ()
+public static void addAddress(Address)
+public static boolean checkAddress(Address)
+public static void removeAddress(Address)
+public static int getSize()
+public static void assignTokens(Address, int)
+public static int getBalance(Address)
+public static String getBalances()
