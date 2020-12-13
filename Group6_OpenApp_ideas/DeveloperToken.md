@@ -1,4 +1,4 @@
-# Developer Token/Tips
+# Knowledge Token/Tips
 
 ### Problem Statement
  - There are a lot of platforms which provide developers with materials for reference,
