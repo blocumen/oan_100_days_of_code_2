@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="greet-java.lang.String,">
+          <value>
+            <list>
+              <option value="Hiten" />
+            </list>
+          </value>
+        </entry>
+        <entry key="multiplyBy10-int,">
+          <value>
+            <list>
+              <option value="20" />
+            </list>
+          </value>
+        </entry>
+        <entry key="myCustomInitializedString-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="sayHello-">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="100-days-day40.args" value="" />
+        <entry key="100-days-day40.dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

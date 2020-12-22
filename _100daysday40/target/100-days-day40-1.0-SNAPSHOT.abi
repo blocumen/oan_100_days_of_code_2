@@ -1,0 +1,9 @@
+1
+com.hiten.HelloAvm
+Clinit: (String, int)
+public static void myStringReturn()
+public static void sayHello()
+public static String greet(String)
+public static int multiplyBy10(int)
+public static String getString()
+public static void setString(String)
