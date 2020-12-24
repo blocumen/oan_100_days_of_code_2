@@ -1,0 +1,5 @@
+1
+org.example.CounterIncrement
+Clinit: ()
+public static void Counter()
+public static void checkowner()
