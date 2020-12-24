@@ -1,0 +1,6 @@
+1
+org.example.HelloAvm
+Clinit: (String, int)
+public static String getString(String)
+public static int getint(int)
+public static void disp()
