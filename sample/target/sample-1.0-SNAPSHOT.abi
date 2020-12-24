@@ -1,0 +1,7 @@
+1
+org.example.HelloAvm
+Clinit: ()
+public static void sayHello()
+public static String greet(String)
+public static String getString()
+public static void setString(String)
