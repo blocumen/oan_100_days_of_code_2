@@ -1,0 +1,5 @@
+1
+org.example.Caller
+Clinit: ()
+public static Address getReturnerContractAddress()
+public static String getStringInAnotherContract(int)
