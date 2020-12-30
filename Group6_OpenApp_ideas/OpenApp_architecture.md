@@ -3,14 +3,14 @@
 Earn crypto by contributing knowledge to the developer community
 
 ## Architecture
-![Architecture](CKT architecture.png)
+![Architecture](CKT_architecture.png)
 
 ## Wireframes
 Login page  
-![Login page](Wireframes/CKT\ login.png)
+![Login page](Wireframes/CKT_login.png)
 
 Registration  
-![Registration](Wireframes/CKT\ first.png)
+![Registration](Wireframes/CKT_first.png)
 
 Token counts  
-![Token counts](Wireframes/CKT\ second.png)
+![Token counts](Wireframes/CKT_second.png)
