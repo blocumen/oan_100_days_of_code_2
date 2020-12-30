@@ -3,7 +3,7 @@
 Earn crypto by contributing knowledge to the developer community
 
 ## Architecture
-![Architecture](https://github.com/blocumen/oan_100_days_of_code_2/blob/praveen_vidyavastu/Group6_OpenApp_ideas/CKT_architecture.png)
+[![Architecture](https://github.com/blocumen/oan_100_days_of_code_2/blob/praveen_vidyavastu/Group6_OpenApp_ideas/CKT_architecture.png)]
 
 ## Wireframes
 Login page  
