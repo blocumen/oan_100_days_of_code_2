@@ -3,7 +3,7 @@
 Earn crypto by contributing knowledge to the developer community
 
 ## Architecture
-![Architecture](CKT\ architecture.png)
+![Architecture](CKT architecture.png)
 
 ## Wireframes
 Login page  
