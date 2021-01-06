@@ -19,11 +19,4 @@ Wallet will be created automatically when the user installs the extension.
 User needs to store the private key/seed phrase, and provide password.
 
 ## Wireframes
-Login page  
-![Login page](https://github.com/blocumen/oan_100_days_of_code_2/blob/praveen_vidyavastu/Group6_OpenApp_ideas/Wireframes/CKT_login.png)
-
-Registration  
-![Registration](https://github.com/blocumen/oan_100_days_of_code_2/blob/praveen_vidyavastu/Group6_OpenApp_ideas/Wireframes/CKT_first.png)
-
-Token counts  
-![Token counts](https://github.com/blocumen/oan_100_days_of_code_2/blob/praveen_vidyavastu/Group6_OpenApp_ideas/Wireframes/CKT_second.png)
+![Wireframes](https://github.com/blocumen/oan_100_days_of_code_2/blob/praveen_vidyavastu/Group6_OpenApp_ideas/Wireframes/CKT_wireframe.jpg)
