@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="addAddress-avm.Address,">
+          <value>
+            <list>
+              <option value="a01afaabc679d8c96e0762b14ce911de6e2872915336f8c64bfca2ccda40baci" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addAddress-java.lang.String,">
+          <value>
+            <list>
+              <option value="0xassdd" />
+            </list>
+          </value>
+        </entry>
+        <entry key="removeAddress-avm.Address,">
+          <value>
+            <list>
+              <option value="a01afaabc679d8c96e0762b14ce911de6e2872915336f8c64bfca2ccda40bacg" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="deployArgs">
+      <map>
+        <entry key="List_Map_Assignments.args" value="" />
+        <entry key="List_Map_Assignments.dontask" value="false" />
+        <entry key="args" value="" />
+        <entry key="dontask" value="false" />
+      </map>
+    </option>
+    <option name="localContractAddresses">
+      <collection />
+    </option>
+    <option name="remoteContractAddresses">
+      <collection />
+    </option>
+  </component>
+</project>

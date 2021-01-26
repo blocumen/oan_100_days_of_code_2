@@ -1,0 +1,4 @@
+1
+org.example.Deployer
+Clinit: ()
+public static void func1()
